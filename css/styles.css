@@ -17,23 +17,6 @@ img{
     display: block;
     width: 100%;
 }
-button {
-    font-size: 15px;
-    text-align: center;
-    border-radius: 8px;
-    padding: 5px 15px;
-}
-.button-checkout {
-    color: black;
-    border: 2px solid #008CBA; /* Blue */
-    transition-duration: 0.4s;
-    position: absolute;
-    right: 15px;
-    bottom: 15px;
-}
-.button-checkout:hover {
-    background-color: #008CBA; /* Blue */
-}
 .main-header{
     padding: 0 20px;
 }
@@ -117,7 +100,7 @@ button {
 .main{
     padding: 0 20px;
 }
-/* ESTILOS DE SLIDER */
+/* SLIDER STYLES */
 .container-slider{
     margin: 50px 0;
     position: relative;
@@ -206,7 +189,7 @@ button {
   background: #FF4E00;
   color: white;
 }
-/* ESTILOS DE PRODUCTOS */
+/* PRODUCT STYLES */
 .container-products {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
